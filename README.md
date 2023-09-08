@@ -10,7 +10,7 @@
 
 - Inside the `src/config` folder create a file `config.json` and add some details of your Database in this given peace of json file and add it
 
-          ```
+```
 
           {
 
@@ -23,6 +23,7 @@
      }
   }
 
-          ```
+```
 
 
+ 
