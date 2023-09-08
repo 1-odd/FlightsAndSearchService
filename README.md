@@ -25,5 +25,6 @@
 
 ```
 
+- Once you have added these details then go to `src` folder from your terminal and execute this command `npx sequelize db:create`
 
  
