@@ -22,7 +22,7 @@ class CityRepository{
                     id:cityId
                 }
             });
-            return "City has  deleted";
+            return true;
         }catch(error){
             console.log("Something went wrong in repository layer");
             throw {error};
